@@ -1,0 +1,27 @@
+Copyright (c) 2025 Mohammad Nabizade-Ardakani  
+All rights reserved.  
+
+Institution: Shahid Beheshti University — Cyberspace Research Institute  
+Program: Master’s Thesis in Information Technology Engineering (Multimedia Systems)  
+Thesis Title: Brain Tumor Segmentation in Pediatric MRI Using Transfer Learning and Redundancy Reduction through Model Pruning of nnU-Net  
+Supervisor: Dr. Ahmad Mahmoudi-Aznaveh  
+Defense Period: October 2025 (Mehr 1404)  
+
+---
+
+This repository has been created exclusively for the Master’s thesis defense and academic evaluation at Shahid Beheshti University, Tehran.  
+It contains research-related code, experimental scripts, trained models, configuration files, visual outputs, and analytical reports produced during the preparation of the above thesis.
+
+The repository serves as a **temporary academic archive** prepared solely for the thesis supervisor, examiners, and the academic committee of Shahid Beheshti University.  
+Its purpose is to provide transparent access to the depth, methodology, and technical implementation of the conducted research.
+
+All materials in this repository — including source code, trained weights, datasets, figures, and documents — are the **intellectual property of the author**.  
+These materials **may not be copied, distributed, reproduced, or used**, whether in part or in full, for any academic, commercial, or derivative purpose without explicit written permission from the author.
+
+Although this repository contributes to the open scientific community, it is **not an open-source project**.  
+The contents are shared **solely for academic review and defense purposes** during the Master’s thesis evaluation at Shahid Beheshti University.
+
+For any inquiries, collaboration, or permission requests, please contact:  
+@: mnabiard [at] gmail [dot] com  
+
+Last Updated: October 2025
